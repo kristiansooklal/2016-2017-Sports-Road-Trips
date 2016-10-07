@@ -2,8 +2,8 @@
 
 Some potential road trips
 
-<script type="text/javascript" src="/path/to/jquery-latest.js"></script> 
-<script type="text/javascript" src="/path/to/jquery.tablesorter.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+<script type="text/javascript" src="tablesorter.js"></script> 
 
 <table id="myTable" class="tablesorter">
 <tr><td>Tickets</td><td>Day</td><td>Date</td><td>League</td><td>Game</td></tr>
