@@ -1,6 +1,6 @@
 # 2016-2017-Sports-Road-Trips
 
-Some potential road trips
+Some potential road trips between October 2016 and May 2017.
 
 <table>
 <tr><td>Tickets</td><td>Day</td><td>Date</td><td>League</td><td>Game</td></tr>
